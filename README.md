@@ -1,2 +1,1 @@
-# frontend-list
-frontend basic list
+前端涉及到的知识面很广，这些知识如果不进行有效梳理与记录，单靠人脑的记忆，很容易忘记
